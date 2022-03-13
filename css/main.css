@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.table-counter-container {
+    position: absolute;
+    font-size: 24px;
+    width: 200px;
+    height: 100px;
+    font-family: Verdana,sans-serif; 
+    text-align: center;
+    display: flex;
+    color: #ffffff;
+    background-color: rgba(30, 30, 30, 0.5);
+    right: 0;
+    flex-direction: column;
+}
+
+.table-counter {
+    margin: auto;
+}
